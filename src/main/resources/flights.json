@@ -1,0 +1,44 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 2948,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2014-04-22T12:14:35-04:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 2175,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2017-01-23T08:27:20-04:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 1925,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2016-10-02T07:06:35-04:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 6083,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2022-01-28T03:17:02-04:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 8366,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2021-03-04T08:34:59-04:00"
+  },
+  {
+    "flightId": 5,
+    "flightNumber": 8366,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2021-03-05T08:34:59-04:00"
+  }
+]
